@@ -1,5 +1,6 @@
 
 # Ready, Set... Git Push
+Hello World ! 
 
 This is your first CodeStory at Evercode.
 
